@@ -1,1 +1,1 @@
-# cgft-ui
+npm install cgft-ui
